@@ -1,0 +1,19 @@
+/* GENERAL CSS*/ 
+body {
+    height: 100%;
+    font-family: 'Kalam', cursive;
+    background-image: url(abstract-abstract-expressionism-abstract-painting-1070527-min.jpg);
+    background-repeat: no-repeat;
+    background-size: cover; 
+    background-position: center;
+    background-attachment: fixed;
+    opacity: 0.90;
+}    
+
+h1 {
+    color: #ffffff;
+    text-align: center;
+    font-size: 650%;
+    text-decoration: underline dotted; 
+}
+
