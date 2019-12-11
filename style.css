@@ -2,18 +2,33 @@
 body {
     height: 100%;
     font-family: 'Kalam', cursive;
-    background-image: url(abstract-abstract-expressionism-abstract-painting-1070527-min.jpg);
+    background-image: url(x-mas.jpg);
     background-repeat: no-repeat;
     background-size: cover; 
     background-position: center;
     background-attachment: fixed;
-    opacity: 0.90;
+    opacity: 0.85;
+
 }    
 
 h1 {
-    color: #ffffff;
+    color: #0b5d1e;
     text-align: center;
-    font-size: 650%;
-    text-decoration: underline dotted; 
+    font-size: 500%;
+    font-family: timberline, sans-serif;
+    font-weight: 400;
+    font-style: normal;
 }
+
+.card-title {
+    color: #0b5d1e;
+}
+
+.btn {
+    
+}
+
+#task-title{
+    color: #b71c1c;
+} 
 
