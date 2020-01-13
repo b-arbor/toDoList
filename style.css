@@ -1,8 +1,8 @@
 /* GENERAL CSS*/ 
 body {
     height: 100%;
-    font-family: 'Kalam', cursive;
-    background-image: url(x-mas.jpg);
+    font-family: craw-modern-urw, serif;
+    background-image: url(desk.jpg);
     background-repeat: no-repeat;
     background-size: cover; 
     background-position: center;
@@ -15,7 +15,7 @@ h1 {
     color: #0b5d1e;
     text-align: center;
     font-size: 500%;
-    font-family: timberline, sans-serif;
+    font-family: craw-modern-urw, serif;
     font-weight: 400;
     font-style: normal;
 }
@@ -24,9 +24,9 @@ h1 {
     color: #0b5d1e;
 }
 
-.btn {
+/* .btn {
     
-}
+} */
 
 #task-title{
     color: #b71c1c;
